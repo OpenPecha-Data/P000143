@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །རྒྱལ་པོ་ལ་གཏམ་བྱ་བ་རིན་པོ་ཆེའི་ཕྲེང་བ་ཞེས་བྱ་བ་སློབ་དཔོན་ཆེན་པོ་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཀླུ་སྒྲུབ།
+  sku: LEK-PHI-096
+  layers:
+  - book_title
+  - author
+  - chapter_title
+web_metadata:
+  title:
+    en: Precious Garland:Advice for the King by the Great Maser Nagarjuna
+    bo: རྒྱལ་པོ་ལ་གཏམ་བྱ་བ་རིན་པོ་ཆེའི་ཕྲེང་བ་ཞེས་བྱ་བ་སློབ་དཔོན་ཆེན་པོ་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 96
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༩༦
+  author:
+    en: Nagarjuna
+    bo: ཀླུ་སྒྲུབ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-096
+  category:
+    en: Madhyamika
+    bo: དབུ་མ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-096.epub
+  description:
+    en: ''
+    bo: ''
