@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000143
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རྒྱལ་པོ་ལ་གཏམ་བྱ་བ་རིན་པོ་ཆེའི་ཕྲེང་བ་ཞེས་བྱ་བ་སློབ་དཔོན་ཆེན་པོ་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀླུ་སྒྲུབ།
-  sku: LEK-PHI-096
   layers:
   - book_title
   - author
   - chapter_title
+  id: LEK-PHI-096
 web_metadata:
   title:
     en: Precious Garland:Advice for the King by the Great Maser Nagarjuna
